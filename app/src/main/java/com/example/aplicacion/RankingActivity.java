@@ -25,8 +25,6 @@ public class RankingActivity extends AppCompatActivity {
 
     ArrayAdapter<MainActivity.newUser> adapter;
 
-   //final ListView records = findViewById(R.id.listRecords);
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
